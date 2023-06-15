@@ -8,4 +8,4 @@ Created by Inon Sinn: 209632009 and Ori Darshan: 212458244
 In this linux assigment we had to implement the Basic Tree Command in C called stree (student tree :) )</br>The command would only create the tree structure from the current folder<br>
 
 ## Example
-![alt text]([http://url/to/img.png](https://github.com/Inon-Sinn/Assignment_3_Advanced_programming/blob/main/Example.PNG))
+![alt text](https://github.com/Inon-Sinn/Assignment_3_Advanced_programming/blob/main/Example.PNG)
